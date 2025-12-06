@@ -26,14 +26,15 @@ I am a dedicated MERN stack developer who enjoys building practical and user-fri
 
 | Project | Tech | Description |
 |--------|------|-------------|
+| JobZeal | MERN | A full-stack job search and application platform |
+| Virtual Classroom | MERN | Online learning system with role-based access and study resources |
+| Heart Disease Prediction | JS + ML Dataset | Predicts heart disease risk using health parameters |
 | Task Manager | MERN | A task management web app with CRUD operations |
-| Heart Disease Prediction | JS + ML dataset | Predicts heart disease risk using health parameters |
-| Smart Parking System | IoT + Web | Real-time parking availability and booking system |
-| Crowdfunding Platform | MERN | Platform to raise funds for personal and social causes |
 
 More projects will be added soon.
 
----
+
+
 
 ### GitHub Stats
 
