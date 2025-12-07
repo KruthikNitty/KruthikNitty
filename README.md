@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kruthik Nitty</h1>
 <h3 align="center">Full-Stack Developer (MERN)</h3>
 
----
+--
 
 ### About Me
 
