@@ -21,14 +21,13 @@ I am a dedicated MERN stack developer who enjoys building practical and user-fri
 </p>
 
 ---
-
 ### 📌 Featured Projects
 
 | Project | Description | GitHub |
 |--------|-------------|--------|
-| **JobZeal** | Full-stack job search and application platform with authentication, job listings, and application tracking. | [Repository] (https://github.com/KruthikNitty/Job_Zeal)|
-| **Virtual Classroom** | Real-time online learning with video conferencing (Jitsi), chat (Firestore), and collaborative whiteboard using Socket.IO. | [Repository](https://github.com/KruthikNitty/Virtual-Classroom) |
-| **Heart Disease Prediction** | Predicts heart disease risk based on medical data using ML dataset with web UI. | [Repository](https://github.com/KruthikNitty/Heart_Disease_Prediction) |
+| **JobZeal** | Full-stack job search and application platform with authentication, job listings, and application tracking. | [Repository](https://github.com/KruthikNitty/Job_Zeal) |
+| **Virtual Classroom** | Real-time online learning with video conferencing (Jitsi), chat (Firestore), and collaborative whiteboard using Socket.IO. | [Repository](https://github.com/KruthikNitty/virtual-classroom) |
+| **Heart Disease Prediction** | Predicts heart disease risk based on medical data using ML dataset with web UI. | Repository link coming soon |
 
 ---
 
