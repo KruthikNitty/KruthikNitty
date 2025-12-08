@@ -26,10 +26,11 @@ I am a dedicated MERN stack developer who enjoys building practical and user-fri
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| JobZeal | MERN | A full-stack job search and application platform |
-| Virtual Classroom | MERN | Online learning system with role-based access and study resources |
-| Heart Disease Prediction | JS + ML Dataset | Predicts heart disease risk using health parameters |
-| Task Manager | MERN | A task management web app with CRUD operations |
+| [JobZeal](https://github.com/KruthikNitty/JobZeal) | MERN | A full-stack job search and application platform |
+| [Virtual Classroom](https://github.com/KruthikNitty/Virtual-Classroom) | MERN | Online learning system with real-time collaboration features |
+| [Heart Disease Prediction](https://github.com/KruthikNitty/Heart_Disease_Prediction) | JS + ML Dataset | Predicts heart disease risk using health parameters |
+
+More projects will be added soon.
 
 More projects will be added soon.
 
